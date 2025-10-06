@@ -1,17 +1,36 @@
-# React + Vite
+# 🎓 Coaching Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **coaching institute website** created as part of my **freelance work**.  
+The goal was to design a clean, user-friendly, and informative platform to help students easily explore available courses, faculty details, and contact information.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧩 About the Project
 
-## React Compiler
+The website was developed for a coaching center to establish their **online presence** and make it easier for new students to connect.  
+It includes sections for:
+- Course information  
+- Faculty profiles  
+- Student testimonials  
+- Contact and inquiry form  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The design focuses on simplicity, easy navigation, and accessibility across all devices.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Coaching
+## 💼 Freelance Work
+
+This project was part of my **freelance portfolio**, where I handled the complete development process — from layout planning and UI design to implementation and deployment.
+
+---
+
+## 📧 Contact
+
+If you'd like a similar website for your institute or business, feel free to reach out!
+
+**Developer:** Pathan Amaan  
+**Email:** [pathan.amaan@adypu.edu.in]  
+
+---
+
+⭐ *If you found this project interesting, give it a star!*
